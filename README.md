@@ -1,4 +1,4 @@
-# RGrid Machine Learning Challenge
+# Machine Learning Challenge
 
 This repository contains a dataset of medical trial descriptions. The objective is to build a machine learning model that classifies trials into different disease categories. The trained model is then served via an API built with Flask.
 
