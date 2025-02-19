@@ -1,0 +1,8 @@
+flask
+black
+numpy
+pandas
+pickle-mixin
+requests
+scikit-learn
+streamlit
